@@ -10,7 +10,7 @@ class Footer extends Component {
     return (
       <footer className={classes.footer}>
         <a
-          href="https://github.com/PrinceSumberia/covid-19-tracker"
+          href="https://github.com/KrishayNair/Covid19India_MiniProject"
           target="_blank"
           rel="noopener noreferrer"
           className={classNames(classes.btn, classes.github)}
@@ -18,7 +18,7 @@ class Footer extends Component {
           Contribute on Github
         </a>
         <a
-          href="https://twitter.com/intent/tweet?text=Get the latest Covid-19 updates with Covid-19 India Tracker!&url=https://covidindiatracker.netlify.app/"
+          href="https://twitter.com/covidnewsbymib?lang=en"
           target="_blank"
           rel="noopener noreferrer"
           className={classNames(classes.btn, classes.twitter)}
